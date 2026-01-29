@@ -91,5 +91,3 @@ NLP–এর বাইরে গিয়ে:
 ## References
 
 * Hugging Face Course (Official)
-* Note/Resources/Links সেকশন
-* আপনার YouTube ভিডিও/প্লেলিস্ট লিংক যুক্ত করে README আরও প্রফেশনাল করা
