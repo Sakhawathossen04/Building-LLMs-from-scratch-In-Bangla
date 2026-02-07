@@ -90,4 +90,8 @@ NLP–এর বাইরে গিয়ে:
 
 ## References
 
-* Hugging Face Course (Official)
+* Hugging Face
+* DeepLearning.AI
+* Stanford School of Engineering
+* Stanford CS336
+
