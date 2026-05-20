@@ -84,7 +84,6 @@ NLP–এর বাইরে গিয়ে:
 ## অতিরিক্ত রেকমেন্ডেশন
 
 কোর্স শেষে চাইলে DeepLearning.AI–এর Natural Language Processing Specialization দেখতে পারেন। এতে ক্লাসিক NLP মডেল যেমন Naive Bayes, LSTM ইত্যাদিও শেখানো হয়, যেগুলো ফাউন্ডেশন মজবুত করতে সাহায্য করে।
-
 ---
 
 ## References
